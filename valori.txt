@@ -2,4 +2,4 @@ contrBrigt:
 inTest/;outTest;30;10
 
 main:
-inTest/;outTest;x0;y0;xF-x0;yF-y0;1920
+inTest/;outTest;x0;y0;xF-x0;yF-y0;1080
